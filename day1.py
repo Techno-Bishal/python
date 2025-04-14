@@ -17,7 +17,10 @@ friend1 = "bikash"
 
 #if same type of data insert , use list
 #list
-friends = ["pranjal","ashish","nabin","bikash"]
+friends = ["pranjal","ashish","nabin","bikash", True]
 
 print(friends)
 print(friends[1])
+
+#if you want to print last element only , you do not need to count array of element
+print(friends[-1])
