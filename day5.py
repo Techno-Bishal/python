@@ -1,16 +1,16 @@
-# def add(a,b):
-#      return a+b 
+def add(a,b):
+     return a+b 
 
-# result = add(1,2)
-# print(result)
+result = add(1,2)
+print(result)
 
-# class Calculation :
-#      def add(self,a,b):
-#           return a+b
+class Calculation :
+     def add(self,a,b):
+          return a+b
      
-# calculator = Calculation()
-# result2 = calculator.add(2,3)
-# print(result2)
+calculator = Calculation()
+result2 = calculator.add(2,3)
+print(result2)
 
 
 #Inheritance
